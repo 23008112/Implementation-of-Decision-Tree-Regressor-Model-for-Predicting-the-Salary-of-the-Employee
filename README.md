@@ -70,6 +70,14 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+
+### data
+![image](https://github.com/user-attachments/assets/39efac5c-e618-4678-b001-578e199de5a6)
+
+### data.info() and data.isnull().sum()
+![image](https://github.com/user-attachments/assets/92de4c5a-d46c-4363-ad4d-0f62dadfbb6a)
+
+
 ### Mean Squared Error
 ![image](https://github.com/user-attachments/assets/c84f4a98-ca23-4d09-b8c7-f34881596b66)
 
